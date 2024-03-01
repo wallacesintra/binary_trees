@@ -1,5 +1,7 @@
 # **binary_trees**
+
 Binary tree - hierarchial data structure that has nodes, node has left child and right child.
+
 - **root node** - the topmost node
 - **leaf node** - node without a child
 - **left child** - less than/ equal to the parent node value
