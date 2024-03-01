@@ -7,7 +7,6 @@ Binary tree - hierarchial data structure that has nodes, node has left child and
 - **left child** - less than/ equal to the parent node value
 - **right child** - greater than/ equal to the parent node value
 
-
 ```c
 typedef struct treenode {
     int value;
