@@ -24,16 +24,6 @@ treenode *createnode(int value){
     return result;
 }
 
-void printtree(treenode *root)
-{
-    if (root == NULL)
-    {
-        printf("---empty---\n");
-        return;
-    }
-    // preorder
-    printf("value = k")
-}
 
 int main()
 {
